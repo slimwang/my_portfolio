@@ -1,0 +1,61 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  width: 1000px;
+  margin:0 auto;
+}
+hr {
+  background-color: #7d97ad;
+  height: 5px;
+  margin-bottom: 30px;
+}
+.sw {
+  font-size: 3em;
+  margin: 40px auto 5px;
+}
+.fn {
+  font-size: 1.5em;
+  margin: 0;
+}
+.container {
+  margin: 25px auto;
+}
+.intro {
+  float: right;
+  text-align: center;
+  color: #2d3c49;
+}
+.work_all {
+  float: left;
+  width: 33.3%;
+  text-align: center;
+  color: #2d3c49;
+}
+.work {
+  text-align: center;
+}
+.work_1 {
+  float: left;
+}
+.work_3 {
+  float: right;
+}
+.girl {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+.f_work {
+  color: #7d97ad;
+  font-size: 2em;
+}
+.title {
+  font-size: 2em;
+  margin: 20px auto 10px;
+}
+.url {
+  margin: 0 auto 50px
+}
